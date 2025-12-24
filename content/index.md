@@ -1,7 +1,9 @@
 ---
-{"publish":true,"title":"Founder Labs Resources","created":"2025-12-23T18:34:45.426-08:00","modified":"2025-12-24T13:25:54.985-08:00","cssclasses":""}
+{"publish":true,"title":"Founder Labs Resources","created":"2025-12-24T13:29:22.343-08:00","modified":"2025-12-24T13:41:47.384-08:00","cssclasses":""}
 ---
 
+
+# Startup Resources
 
 Frameworks, calculators, templates, and tactics for bootstrapped founders at $0-5k MRR.  Mostly, this is being maintained for those founders who are in the [Founder Labs Community](https://founderlabs.io/community). 
 
@@ -21,27 +23,48 @@ These aren't meant to be read cover-to-cover. Grab what you need when you need i
 
 ---
 
+## Founders, Corporate Structure, Taxes, and Equity
+
+- Solopreneurs vs Co-Founders vs Multiple Co-Founders - What the stats say
+- Sole Proprietorship vs LLC vs C-Corp vs S-Corp - A comparison of corporate structures
+- Typical Equity Setups
+
+## Funding
+
+- Funding Decision Matrix - What types of businesses need funding
+
+## Prioritization & Time Management
+
+- Eat That Frog by Brian Tracy (synthesis/summary)
+- Buy Back Your Time by Dan Martell (time audit section summary)
+
 ## Validation & Market Fit
 
-- Financial Reality Calculator — Know your real numbers before you commit another 6 months
-- Market Evaluation Framework — Score your market opportunity objectively
-- Customer Discovery Tactics — How to learn what people actually want (not what they say they want)
+- Financial Reality Calculator - Know your real numbers before you commit another 6 months
+- Market Evaluation Framework - Score your market opportunity objectively
+
+### Customer Interviews
+
+- Customer Discovery Tactics - How to learn what people actually want (not what they say they want)
+- Customer Interview Cheatsheet
+- How and What to Track from Customer Interviews
+- 
 
 ## Decision Making
 
-- Persist or Pivot Framework — The structured process for making the call
-- Weekly Commitment Template — Pick ONE thing. Do it. Repeat.
+- Persist or Pivot Framework - The structured process for making the call
+- Weekly Commitment Template - Pick ONE thing. Do it. Repeat.
 
 ## Growth & Revenue
 
-- Funnel Diagnostic Worksheet — Find where you're leaking customers
-- Pricing Strategy Guide — Stop undercharging
+- Funnel Diagnostic Worksheet - Find where you're leaking customers
+- Pricing Strategy Guide - Stop undercharging
 
 ## Mental Models
 
-- The Gap — Current state → Desired state → Your opportunity
-- Land and Expand — Start narrow, prove value, then grow
-- Solve the Problem You Just Created — Your next product is hiding in your current one
+- The Gap - Current state → Desired state → Your opportunity
+- Land and Expand - Start narrow, prove value, then grow
+- Solve the Problem You Just Created - Your next product is hiding in your current one
 
 ---
 
