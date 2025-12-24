@@ -1,8 +1,7 @@
 ---
-{"publish":true,"title":"Founder Labs Resources","created":"2025-12-23T18:34:45.426-08:00","modified":"2025-12-24T13:19:06.955-08:00","cssclasses":""}
+{"publish":true,"title":"Founder Labs Resources","created":"2025-12-23T18:34:45.426-08:00","modified":"2025-12-24T13:25:54.985-08:00","cssclasses":""}
 ---
 
-# Resources
 
 Frameworks, calculators, templates, and tactics for bootstrapped founders at $0-5k MRR.  Mostly, this is being maintained for those founders who are in the [Founder Labs Community](https://founderlabs.io/community). 
 
