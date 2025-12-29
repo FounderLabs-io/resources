@@ -70,9 +70,11 @@ These should be as specific as you can make them.  The templates will help guide
 
 **Template:**
 
-```txt
-[Target customer segment] has a problem with [specific problem]
-because [underlying cause]. This problem costs them [time/money/frustration]
+```
+[Target customer segment] 
+has a problem with [specific problem]
+because [underlying cause]. 
+This problem costs them [time/money/frustration]
 and they currently solve it by [current alternative].
 ```
 
@@ -97,9 +99,12 @@ and they currently solve it by [current alternative].
 
 **Template:**
 
-```txt
-Our customer is [specific description] who [specific behavior/context].
-They care about [primary motivation] and make decisions based on [decision criteria]. We can reach them through [specific channels].
+```
+Our customer is [specific description] 
+who [specific behavior/context].
+They care about [primary motivation] 
+and make decisions based on [decision criteria]. 
+We can reach them through [specific channels].
 ```
 
 **Example:**
@@ -122,8 +127,12 @@ They care about [primary motivation] and make decisions based on [decision crite
 
 **Template:**
 
-```txt
-We believe that [feature/solution] will solve [specific problem] for [customer segment] because [reason/mechanism]. Success looks like [measurable outcome].
+```
+We believe that [feature/solution] 
+will solve [specific problem] 
+for [customer segment] 
+because [reason/mechanism]. 
+Success looks like [measurable outcome].
 ```
 
 **Example:**
