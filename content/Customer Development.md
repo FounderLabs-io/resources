@@ -1,7 +1,6 @@
 ---
 title: Customer Development
 publish: true
-tag: recipe
 ---
 ## Sources
 
