@@ -260,7 +260,7 @@ Once you've tested if customers have the problems you think they have and if you
 > 
 > The first phase is customer/problem discovery. You don't need to build here. This is what research, landing pages, small prototypes, MVPs, and other tiny tests and experiments can help you decide.  This is why we break the assumptions down into smaller and smaller versions - to test them as quickly as possible.  For example, if you're testing whether or not a target is reachable on a particular channel, you only need to DM them and see if they reply, not build or demo anything. 
 > 
-> The framework for ordering your hypothesis testing is [[Demo, Sell, Build]].
+> The framework for ordering your hypothesis testing is [[Demo-Build-Sell|Demo, Sell, Build]].
 
 ## Note
 
