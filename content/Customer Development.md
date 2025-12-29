@@ -70,7 +70,7 @@ These should be as specific as you can make them.  The templates will help guide
 
 **Template:**
 
-```
+```txt
 [Target customer segment] has a problem with [specific problem]
 because [underlying cause]. This problem costs them [time/money/frustration]
 and they currently solve it by [current alternative].
@@ -97,7 +97,7 @@ and they currently solve it by [current alternative].
 
 **Template:**
 
-```
+```txt
 Our customer is [specific description] who [specific behavior/context].
 They care about [primary motivation] and make decisions based on [decision criteria]. We can reach them through [specific channels].
 ```
@@ -122,7 +122,7 @@ They care about [primary motivation] and make decisions based on [decision crite
 
 **Template:**
 
-```
+```txt
 We believe that [feature/solution] will solve [specific problem] for [customer segment] because [reason/mechanism]. Success looks like [measurable outcome].
 ```
 
@@ -180,11 +180,6 @@ You'll start using this sheet AFTER your "Company killer" assumptions are all in
 Each of the above assumptions (risks) and opportunities (ideas) are hypotheses. They are not reality. You must treat them as such. Thus, without data to back them up, you could be wasting time building solutions.  
 
 Admitting these are assumptions will naturally lead you to want to resolve them. They are "open loops." So, let's close them by creating hypotheses and testing them.
-
-If our riskiest assumption was ""
-
-The template for a good hypothesis statement should look like this: 
-
 ##### Characteristics of a Good Hypothesis
 
 - **Testable/Falsifiable:** You must be able to support or disprove it with data from your study.
@@ -207,6 +202,8 @@ The more specific the variable ("2+ degrees") and the change ("50%+ more algae")
 2. **Formulate the question:** Turn your topic into a question (e.g., "Does X affect Y?").
 3. **State your prediction:** Use "If {change X}, then {expect Y to change}".
 4. **Refine:** Make it specific and testable, like "Dandelions in nitrogen-rich soil develop larger leaves".
+
+**Example:**
 
 | Hypothesis                                                                  | Test Method   | Pass/Fail Criteria | Result | Pass/Fail | Date Tested |
 | --------------------------------------------------------------------------- | ------------- | ------------------ | ------ | --------- | ----------- |
