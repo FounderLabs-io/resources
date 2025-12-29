@@ -136,9 +136,9 @@ We believe that [feature/solution] will solve [specific problem] for [customer s
 - We believe pre-PMF founder decision making speed is increased by talking to customers.
 - We believe pre-PMF founders will pay at least $100/mo for faster decision making speed.
 
-### Step 1.4) Create Spreadsheets
+### Step 2) Create Spreadsheets
 
-#### The Assumptions Spreadsheet: (with example data)
+#### Step 2.1) Create the Assumptions Spreadsheet: (with example data)
 
 Create a table with the headings as shown below.  For the "Risk" category, you can create selectable options as shown below, or a rating from 1-4 or so.  The goal with the "Risk" column is to help you prioritize. The more you practice the skill of seeing where you're making assumptions without data to back you up, the more assumptions you'll add. This list will get long.  Prioritization is key to making progress on the most important things.  Focus only on validating the "Company killer" level assumptions first. 
 
@@ -159,7 +159,7 @@ We all make assumptions about our businesses. Prioritize getting data on the one
 | ICP has enough money to spend on a community ($20-100/mo)                                                                                      | Maybe risky      |            |                                       |
 | ICP are open to advice from experts                                                                                                            | Not really risky |            |                                       |
 
-#### The Opportunities Spreadsheet: (with example data)
+#### Step 2.2) Create the Opportunities Spreadsheet: (with example data)
 
 Create a table with the headings as shown below. For the **"Opportunity Size"** column, you can create selectable options as shown below, or a rating from 1-3 or so. The goal with the "Opportunity Size" column is to help you prioritize. The more you practice the skill of seeing where your biggest opportunities are, and the difficulty to test them, the more you'll want to document and prioritize them.  
 
@@ -175,7 +175,7 @@ You'll start using this sheet AFTER your "Company killer" assumptions are all in
 | Niche down into full-time only   | Decent (2)       | 1          | 1        |                |                                                         |
 | Niche down to engineers only     | Minor (1)        | 1          | 0        | 2024-11-03     | They have money. I have cred. They aren't big spenders. |
 
-#### The Hypothesis Spreadsheet: (with example data)
+#### Step 2.3) Create the Hypothesis Spreadsheet: (with example data)
 
 Each of the above assumptions (risks) and opportunities (ideas) are hypotheses. They are not reality. You must treat them as such. Thus, without data to back them up, you could be wasting time building solutions.  
 
@@ -225,6 +225,9 @@ The more specific the variable ("2+ degrees") and the change ("50%+ more algae")
 - [http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html](http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html) (Eric Ries on hypothesis testing)
 - R/ICE Prioritization Framework
 
+## Note
+
+There is more to Customer Discovery as Steve Blank and Eric Ries have defined it. This is just what matters most to early-stage, primarily pre-PMF founders according to [Nate Ritter](https://nateritter.com).
 
 ---
 
