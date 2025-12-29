@@ -7,7 +7,7 @@ tag: recipe
 
 - [Steve Blank, "The Four Steps to the Epiphany" (2005)](https://amzn.to/4q0hr3m)
 - [Eric Ries, "The Lean Startup" (2011)](https://amzn.to/3YgN0tu)
-- Adapted by [Nate Ritter](https://nateritter.com) (2024)
+- Adapted by [Nate Ritter](https://nateritter.com) for [Founder Labs](https://founderlabs.io) (2024)
 
 ## Original Context
 
