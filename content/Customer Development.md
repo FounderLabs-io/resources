@@ -56,7 +56,7 @@ Those companies / projects where the current focus is scaling what's working, or
 
 ## Tactical "How To"
 
-### Step 1. State Your Hypotheses
+### Step 1) State Your Hypotheses
 
 **Objective:** Document all your assumptions so you can test them systematically. 
 
@@ -66,7 +66,7 @@ Those companies / projects where the current focus is scaling what's working, or
 
 These should be as specific as you can make them.  The templates will help guide you to write them as sentences.  But, immediately after writing these, you can break the statements into a bunch of assumptions, categorize them as risks or opportunities, and prioritize them.  Each higher level hypothesis you write will likely have many assumptions (and probably sub-assumptions) inside them.  
 
-#### Step 1.1. Write Your PROBLEM Hypothesis
+#### Step 1.1) Write Your PROBLEM Hypothesis
 
 **Template:**
 
@@ -93,7 +93,7 @@ and they currently solve it by [current alternative].
 
 **Bold words** are what you're really testing.
 
-#### Step 1.2. Write your CUSTOMER Hypothesis
+#### Step 1.2) Write your CUSTOMER Hypothesis
 
 **Template:**
 
@@ -118,7 +118,7 @@ They care about [primary motivation] and make decisions based on [decision crite
 
 **Bold words** are what you're really testing.
 
-#### Step 1.3. Write Your PRODUCT Hypothesis
+#### Step 1.3) Write Your PRODUCT Hypothesis
 
 **Template:**
 
@@ -136,7 +136,7 @@ We believe that [feature/solution] will solve [specific problem] for [customer s
 - We believe pre-PMF founder decision making speed is increased by talking to customers.
 - We believe pre-PMF founders will pay at least $100/mo for faster decision making speed.
 
-### Step 1.4. Create Spreadsheets
+### Step 1.4) Create Spreadsheets
 
 #### The Assumptions Spreadsheet: (with example data)
 
