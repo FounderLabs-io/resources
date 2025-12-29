@@ -524,6 +524,7 @@ p {
     th,
     td {
       min-width: 75px;
+      border-right: 1px solid var(--lightgray);
     }
 
     & > * {
@@ -535,13 +536,10 @@ p {
 th {
   text-align: left;
   padding: 0.4rem 0.7rem;
-  border-bottom: 2px solid var(--gray);
-  border-right: 1px solid var(--lightgray);
 }
 
 td {
   padding: 0.2rem 0.7rem;
-  border-right: 1px solid var(--lightgray);
 }
 
 tr {
