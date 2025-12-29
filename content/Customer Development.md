@@ -47,10 +47,15 @@ Those companies / projects where the current focus is scaling what's working, or
 
 ## Common Mistakes
 
-- Treating customer conversations as sales pitches instead of learning sessions
-- Only interviewing people who fit your demographic assumptions (test them first)
-- Believing compliments equal validation (read The Mom Test)
-- Stopping customer discovery after building the product (it never ends)
+> [!warning]
+> 
+> Avoid these common mistakes when using this framework:
+> - Treating customer conversations as sales pitches instead of learning sessions
+> - Only interviewing people who fit your demographic assumptions (test them first)
+> - Believing compliments equal validation (read The Mom Test)
+> - Stopping customer discovery after building the product (it never ends)
+
+
 
 ---
 
@@ -80,9 +85,9 @@ and they currently solve it by [current alternative].
 
 **Example:**
 
-> Technical founders ($0-5k MRR) struggle to validate their product ideas because they build features based on assumptions instead of talking to customers. This costs them 3-6 months of wasted development time, and they currently 'validate' by asking friends/family who give biased feedback.
+> *Technical founders ($0-5k MRR) struggle to validate their product ideas because they build features based on assumptions instead of talking to customers. This costs them 3-6 months of wasted development time, and they currently 'validate' by asking friends/family who give biased feedback.*
 
-**List of broken down assumptions from this example:**
+**List of smaller, more specific assumptions from this example:**
 
 - Technical founders **struggle with validation more than non-technical founders.** 
 - Technical founders **hate building products nobody wants (and have experienced this previously)**.
@@ -109,9 +114,9 @@ We can reach them through [specific channels].
 
 **Example:**
 
-> Our customer is a solo technical founder or developer who has quit their job or is working nights/weekends on a SaaS product. They care about reaching profitability before running out of savings and make decisions based on tactics that worked for other bootstrappers. We can reach them through indie hacker communities, Twitter/X, and targeted LinkedIn.
+> *Our customer is a solo technical founder or developer who has quit their job or is working nights/weekends on a SaaS product. They care about reaching profitability before running out of savings and make decisions based on tactics that worked for other bootstrappers. We can reach them through indie hacker communities, Twitter/X, and targeted LinkedIn.*
 
-**List of broken down assumptions from this example:**
+**List of smaller, more specific assumptions from this example:**
 
 - Solo tech founders / developers who quit their job or are side-hustling on SaaS **biggest concern is profitability before running out of savings.**
 - Solo tech founders / developers who quit their job or are side-hustling on SaaS **primarily make decisions based on tactics that worked for other bootstrappers (influenced)**.
@@ -137,9 +142,9 @@ Success looks like [measurable outcome].
 
 **Example:**
 
-> We believe that weekly accountability sprints with structured validation frameworks will help technical founders make validation decisions faster because it forces them to talk to customers systematically with how-to tactics instead of building in isolation without experience. Success looks like members completing 10+ customer interviews in their first month.
+> *We believe that weekly accountability sprints with structured validation frameworks will help technical founders make validation decisions faster because it forces them to talk to customers systematically with how-to tactics instead of building in isolation without experience. Success looks like members completing 10+ customer interviews in their first month.*
 
-**List of broken down assumptions from this example:**
+**List of smaller, more specific assumptions from this example:**
 
 - We believe accountability sprints + structured validation frameworks are more effective for pre-PMF founders (measured by decision making speed) than individually.
 - We believe pre-PMF founder decision making speed is increased by talking to customers.
@@ -218,22 +223,43 @@ The more specific the variable ("2+ degrees") and the change ("50%+ more algae")
 | --------------------------------------------------------------------------- | ------------- | ------------------ | ------ | --------- | ----------- |
 | If I DM 100 solo technical founders on Twitter/X, at least 50% will respond | Twitter/X DMs | 50% response rate  | 55%    | Pass      | 2023-11-03  |
 
-**Common Mistakes:** (time wasted)
+> [! warning]
+> 
+> Avoid these common mistakes when writing hypotheses to avoid wasting time on test that will fail to give you what you need:
+> 
+> 1. Making hypotheses too vague ("people need productivity tools")
+> 2. Not making grooming of these spreadsheets at least a weekly activity
+> 3. Not focusing on the most risky assumptions first
+> 4. Stating hypotheses as facts ("customers want feature X") instead of testable assumptions
+> 5. Never writing assumptions down at all and building without testing them
 
-1. Making hypotheses too vague ("people need productivity tools")
-2. Not making grooming of these spreadsheets at least a weekly activity
-3. Not focusing on the most risky assumptions first
-4. Stating hypotheses as facts ("customers want feature X") instead of testable assumptions
-5. Never writing assumptions down at all and building without testing them
 
 **Source:** Blank, "The Four Steps to the Epiphany" Chapter 2: Customer Discovery 
 **References:** 
 - [http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html](http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html) (Eric Ries on hypothesis testing)
 - R/ICE Prioritization Framework
 
+### Step 3) Test Your Hypotheses
+
+This part is somewhat vague because what you are testing and how will be dependent upon your stage.  
+
+Generally, you'd be using the methodology above for [[Customer Development#The Four Phases|all 4 phases of Customer Development]].
+
+Once you've tested if customers have the problems you think they have and if your solution addresses them, you can move on to iterating on your theoretical repeatable sales model. Once it's actually repeatable, you can start scaling demand creation (marketing/sales channels).  
+
+> [!tip] Important
+> 
+> These 4 phases of Customer Development seem to imply you must build before you sell. Nothing is further from the truth.  
+> 
+> The first phase is customer/problem discovery. You don't need to build here. This is what research, landing pages, small prototypes, MVPs, and other tiny tests and experiments can help you decide.  This is why we break the assumptions down into smaller and smaller versions - to test them as quickly as possible.  For example, if you're testing whether or not a target is reachable on a particular channel, you only need to DM them and see if they reply, not build or demo anything. 
+> 
+> The framework for ordering your hypothesis testing is [[Demo, Sell, Build]].
+
 ## Note
 
-There is more to Customer Discovery as Steve Blank and Eric Ries have defined it. This is just what matters most to early-stage, primarily pre-PMF founders according to [Nate Ritter](https://nateritter.com).
+> [!note] Note
+> 
+> There is more to Customer Discovery as Steve Blank and Eric Ries have defined it than what is in this document. The process documented here is just what matters most to early-stage, pre-PMF founders according to [Nate Ritter](https://nateritter.com).
 
 ---
 
