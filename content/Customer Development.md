@@ -55,8 +55,6 @@ Those companies / projects where the current focus is scaling what's working, or
 > - Believing compliments equal validation (read The Mom Test)
 > - Stopping customer discovery after building the product (it never ends)
 
-
-
 ---
 
 ## Tactical "How To"
@@ -85,6 +83,8 @@ and they currently solve it by [current alternative].
 
 **Example:**
 
+> [!example]
+> 
 > *Technical founders ($0-5k MRR) struggle to validate their product ideas because they build features based on assumptions instead of talking to customers. This costs them 3-6 months of wasted development time, and they currently 'validate' by asking friends/family who give biased feedback.*
 
 **List of smaller, more specific assumptions from this example:**
@@ -114,6 +114,8 @@ We can reach them through [specific channels].
 
 **Example:**
 
+> [!example]
+> 
 > *Our customer is a solo technical founder or developer who has quit their job or is working nights/weekends on a SaaS product. They care about reaching profitability before running out of savings and make decisions based on tactics that worked for other bootstrappers. We can reach them through indie hacker communities, Twitter/X, and targeted LinkedIn.*
 
 **List of smaller, more specific assumptions from this example:**
@@ -142,6 +144,8 @@ Success looks like [measurable outcome].
 
 **Example:**
 
+> [!example]
+> 
 > *We believe that weekly accountability sprints with structured validation frameworks will help technical founders make validation decisions faster because it forces them to talk to customers systematically with how-to tactics instead of building in isolation without experience. Success looks like members completing 10+ customer interviews in their first month.*
 
 **List of smaller, more specific assumptions from this example:**
@@ -204,9 +208,12 @@ Admitting these are assumptions will naturally lead you to want to resolve them.
 
 **Examples in "If-Then" Format**
 
-- Science: "If a pond's water temperature rises 2+ degrees, then the algae population will increase by 50%".
-- Health: "If athletes follow daily cold showers, then their endurance increases".
-- Education: "If students sleep at least 8 hours, then they will achieve higher test scores". 
+
+> [!examples]
+> 
+> - Science: "If a pond's water temperature rises 2+ degrees, then the algae population will increase by 50%".
+> - Health: "If athletes follow daily cold showers, then their endurance increases".
+> - Education: "If students sleep at least 8 hours, then they will achieve higher test scores". 
 
 The more specific the variable ("2+ degrees") and the change ("50%+ more algae") the better.
 
