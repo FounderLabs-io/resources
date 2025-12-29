@@ -40,12 +40,13 @@ These aren't meant to be read cover-to-cover. Grab what you need when you need i
 
 ## Validation & Market Fit
 
+- [[Customer Development]] - Find a repeatable and scalable business model through validated learning before scaling
+- Demo, Build, Sell - Sell the promise with a demo first, build only what buyers commit to, and let revenue—not opinions—decide the roadmap.
 - Financial Reality Calculator - Know your real numbers before you commit another 6 months
 - Market Evaluation Framework - Score your market opportunity objectively
 
 ### Customer Interviews
 
-- [[Customer Development]] - Find a repeatable and scalable business model through validated learning before scaling
 - Customer Discovery Tactics - How to learn what people actually want (not what they say they want)
 - Customer Interview Cheatsheet
 - How and What to Track from Customer Interviews
