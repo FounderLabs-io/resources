@@ -244,7 +244,7 @@ The more specific the variable ("2+ degrees") and the change ("50%+ more algae")
 **Source:** Blank, "The Four Steps to the Epiphany" Chapter 2: Customer Discovery 
 **References:** 
 - [http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html](http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html) (Eric Ries on hypothesis testing)
-- R/ICE Prioritization Framework
+- [R/ICE Prioritization Framework](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
 
 ### Step 3) Test Your Hypotheses
 
