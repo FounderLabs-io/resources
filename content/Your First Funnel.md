@@ -228,7 +228,7 @@ When something's not working, here's where to look:
 
 Don't track metrics for stages you haven't reached. If you have 0 customers, tracking LTV is pointless. If you're concerned about if and how much someone is willing to pay, find that out in your calls if you're pre-revenue and/or pre-PMF.
 
-## TLDR; Action Steps
+## TL;DR Action Steps
 
 **If you have no funnel:**
 
