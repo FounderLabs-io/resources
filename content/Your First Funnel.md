@@ -28,7 +28,7 @@ The fix isn't optimizing conversion rates (yet). The fix is building just a basi
 
 Here's how I like to start doing this...
 
-## The Simplest (Generic) Funnel
+## Step 1) Create a Simple Funnel
 
 Before you worry about AARRR metrics ("pirate metrics") or refreshing your analytics again, start here:
 
@@ -86,7 +86,7 @@ But a simple funnel pointed out where the problems were. We could then ask "why"
 > 
 > The specific stage names are less important than **having and using a funnel at all.**
 
-## What to Track: Demo-Sell-Build (The Counter-Intuitive Approach)
+### Demo-Sell-Build: What to Track
 
 Most founders build first. Then demo. Then try to sell.
 
@@ -116,11 +116,9 @@ You can track a lot with a basic funnel - sales calls, customer discovery/learni
 
 When you're first starting out, anything other than what I mentioned above is likely too much, because you'll be changing your funnel(s) as you learn.
 
+### Pirate Metrics: AARRR
 
-
-## The Five Funnel Stages (AARRR / Pirate Metrics)
-
-Once we have revenue, we shift to a higher-level funnel that uses the Pirate Metrics framework, mapping to these stages:
+Once we have revenue, we shift to a higher-level funnel that uses the "Pirate Metrics" framework, mapping to these stages:
 
 **1. Acquisition (Finding)** How do people discover you exist?
 
@@ -157,9 +155,60 @@ Question to answer: Would they recommend you unprompted?
 > 
 > Don't optimize all five at once. Fix the leakiest bucket first.
 
-## Find Your Leakiest Bucket
+## Step 2) Find Your Leakiest Stage
 
 Look at each transition in your funnel. Where's the biggest drop-off (compared to expected/best drop-off)?
+
+The client I mentioned above, his simple sheet looked something like this (data made up):
+
+| Stage       | People (Agg) | Conv (Agg) | Exp (Agg) | Diff (Agg) | 2025-10-10 | Conv | 2025-10-17 | Conv |
+| ----------- | ------------ | ---------- | --------- | ---------- | ---------- | ---- | ---------- | ---- |
+| Prospects   | 158          |            |           |            | 35         |      | 123        |      |
+| Outreaches  | 64           | 41%        | 100%      | -59%       | 35         | 100% | 29         | 24%  |
+| Responses   | 7            | 11%        | 50%       | -39%       | 4          | 11%  | 3          | 10%  |
+| Pitches     | 3            | 43%        | 80%       | -37%       | 2          | 50%  | 1          | 33%  |
+| Conversions | 0            | -          | -         | -          | 0          | -    | 0          | -    |
+
+> [!info] Column explanation & suggestions
+> 
+> Freeze the first 5 columns.
+> Create 2 columns for each week for a predetermined time (a quarter is recommended).
+> 
+> - People (Agg) = Aggregate of all the weeks
+> - Conv (Agg) = Conversion rate of all the weeks
+> - Exp (Agg) = Expected conversion rate
+> - Diff (Agg) = Difference between expected and actual conversion rate
+>  
+> Each week's "Conv" rate column is just dividing into the stage above it. For example: 2025-10-10's Responses rate is calculated by dividing 4 (# of responses that week) into 35 (# of outreaches made that week). 
+> 
+> **The most important column in here is the Diff (Agg) column!** 
+> <mark style="background: #FFF3A3A6;">**The highest negative number is where to focus your time.**</mark>
+
+Now, each week, you can fill in the raw numbers and the conversion rates and aggregate numbers should fill themselves in using formulas.
+
+> [!warning] Important note
+> 
+> Yes, the more data you have, the more confident you can be in your decision. However, directionality and speed is what we're after in an early startup.
+> 
+> If you're wrong with the direction, the process of fast decision making will auto-correct you anyway. 
+> 
+> But, if you take too long to make a decision, you could easily run out of money before anything else matters.
+> 
+> Thus, to make decisions quickly, 30-100 conversions at any stage, for any one test, where the actions taken afterward are reversible, will be our starting point for making decisions. 
+
+
+## Step 3) Diagnose the Leaks
+
+When something's not working, here's where to look:
+
+|Symptom|Likely Cause|
+|---|---|
+|Traffic but no signups|Landing page/offer mismatch, wrong audience, weak copy|
+|Signups but no activation|Confusing onboarding, too much friction, unclear value|
+|Activation but no payment|Price too high, value not proven, no urgency|
+|Payment but high churn|Product underdelivers, wrong customer, competitor better|
+|Paying customers but no referrals|Not delightful enough, no referral system, niche too narrow|
+Here's some other thoughts. This is not comprehensive. Just a starting point.
 
 **Low landing page → signup conversion**
 
@@ -192,41 +241,6 @@ Look at each transition in your funnel. Where's the biggest drop-off (compared t
 - They don't know anyone else with the problem
 
 Again, fix one leak at a time. 
-
-### Leaky Funnel Diagnostic
-
-When something's not working, here's where to look:
-
-|Symptom|Likely Cause|
-|---|---|
-|Traffic but no signups|Landing page/offer mismatch, wrong audience, weak copy|
-|Signups but no activation|Confusing onboarding, too much friction, unclear value|
-|Activation but no payment|Price too high, value not proven, no urgency|
-|Payment but high churn|Product underdelivers, wrong customer, competitor better|
-|Paying customers but no referrals|Not delightful enough, no referral system, niche too narrow|
-
-## Metrics That Matter at Each Stage
-
-**$0 MRR (Pre-Revenue)**
-
-- Number (and where) prospects found
-- Number of conversations with prospects (call booking rate)
-- Verbal or written commitments
-
-**$1-5k MRR (Early Traction)**
-
-- Conversion rate: visitor → trial → paid
-- Churn rate
-- Activation rate (what % reach the "aha moment" and how fast)
-
-**$5k+ MRR (Growth)**
-
-- Customer acquisition cost (CAC)
-- Lifetime value (LTV)
-- LTV:CAC ratio (should be 3:1 or better)
-- Payback period
-
-Don't track metrics for stages you haven't reached. If you have 0 customers, tracking LTV is pointless. If you're concerned about if and how much someone is willing to pay, find that out in your calls if you're pre-revenue and/or pre-PMF.
 
 ## TL;DR Action Steps
 
