@@ -2,8 +2,6 @@
 title: Your First Funnel
 publish: true
 ---
-# Your First Funnel
-
 You have a product (or an idea for one). You need customers. 
 
 Even in the idea stage? Yes. (And honestly, if you've built the product and have little to no customers, you're still in the idea stage.)
