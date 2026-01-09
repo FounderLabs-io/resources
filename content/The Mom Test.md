@@ -42,7 +42,7 @@ Therefore ....
 
 These three rules (and examples) transform bad conversations into useful ones:
 
-### Rule 1: Talk About THEIR Life, Not Your Idea
+**1) Talk About THEIR Life, Not Your Idea**
 
 **Bad:** "I'm building an app that helps digital nomads plan trips. What do you think?"
 
@@ -50,7 +50,7 @@ These three rules (and examples) transform bad conversations into useful ones:
 
 **Why it works:** They describe reality (past behavior) instead of imagining hypotheticals (future wishes).
 
-### Rule 2: Ask About Specifics in the PAST, Not Generics About the Future
+**2) Ask About Specifics in the PAST, Not Generics About the Future**
 
 **Bad:** "Would you pay $29/month for a productivity tool?"
 
@@ -58,7 +58,7 @@ These three rules (and examples) transform bad conversations into useful ones:
 
 **Why it works:** Past behavior predicts future behavior. Hypothetical statements predict nothing. Asking "why" is to understand their likes, dislikes, needs, wants, and importantly their future desired state.
 
-### Rule 3: Talk Less, Listen More
+**3) Talk Less, Listen More**
 
  **Bad:** 60% of the conversation is you explaining your product
 
@@ -213,7 +213,7 @@ Great. Before we dive in, quick background - what do you do and how does [proble
 
 Use these as your foundation. Adapt to your specific problem space.
 
-#### **1. The "Walk Me Through" Question**
+**1) The "Walk Me Through" Question**
 
 ```
 Walk me through the last time you [dealt with problem]. Start to finish - what did that look like?
@@ -225,7 +225,7 @@ Walk me through the last time you [dealt with problem]. Start to finish - what d
 
 **Why:** Gets concrete, historical behavior, not hypothetical wishes.
 
-#### **2. The "Current State" Question**  
+**2) The "Current State" Question**  
 
 ```
 How are you currently handling [problem]?
@@ -237,7 +237,7 @@ How are you currently handling [problem]?
 
 **Why:** Reveals existing solutions (your real competition could just be pen and paper, or other online tools, or indifference).
 
-#### **3. The "What Have You Tried" Question**
+**3) The "What Have You Tried" Question**
 
 ```
 What solutions have you already tried for [problem]?
@@ -253,7 +253,7 @@ What solutions have you already tried for [problem]?
 
 **Why:** Shows problem urgency. If they haven't tried anything lately, the problem probably isn't urgent enough.
 
-#### **4. The "Why Did You Stop" Question**
+**4) The "Why Did You Stop" Question**
 
 ```
 You mentioned you tried [solution]. Why did you stop using it?
@@ -265,7 +265,7 @@ You mentioned you tried [solution]. Why did you stop using it?
 
 **Why:** Reveals actual pain points, dealbreakers, what they liked, and usually they'll complain about the solution they landed on too, which gives you differentiators.
 
-#### **5. The "Money Question"**
+**5) The "Money Question"**
 
 ```
 What are you currently paying for to solve [related problem]?
@@ -277,7 +277,7 @@ What are you currently paying for to solve [related problem]?
 
 **Why:** Shows willingness to pay and budget allocation.
 
-#### **6. The "Magic Wand" Question**
+**6) The "Magic Wand" Question**
 
 ```
 If you could wave a magic wand and fix one thing about [current solution], what would it be?
@@ -289,7 +289,7 @@ If you could wave a magic wand and fix one thing about [current solution], what 
 
 **Why:** Reveals core frustration without them needing to imagine your product.
 
-#### **7. The "Show Me" Question**
+**7) The "Show Me" Question**
 
 ```
 Can you show me how you currently do [task]?
@@ -301,7 +301,7 @@ Can you show me how you currently do [task]?
 
 **Why:** Seeing actual behavior beats hearing descriptions. Dig into why they do things that are new to you, or don't make sense to you. Ask "why" they do what they do often.
 
-#### **8. The "Last Time" Question**
+**8) The "Last Time" Question**
 
 ```
 When was the last time [problem] caused you a real headache? What happened?
@@ -313,7 +313,7 @@ When was the last time [problem] caused you a real headache? What happened?
 
 **Why:** Gets emotional, specific stories (where truth lives). Could show value-based pricing opportunity. Opportunity for you to write down "[[The Mom Test#Emotional Conversion Language Listen For This|emotional conversion words]]" to use in marketing, landing page, and email copy later.
 
-#### **9. The "What Would Have To Be True" Question**
+**9) The "What Would Have To Be True" Question**
 
 ```
 What would have to be true for you to switch from [current solution] to something new?
@@ -325,7 +325,7 @@ What would have to be true for you to switch from [current solution] to somethin
 
 **Why:** Reveals switching costs and requirements, objections, price points, value and delight opportunities/features, all without pitching your product.
 
-#### **10. The "Who Else" Question**
+**10) The "Who Else" Question**
 
 ```
 Who else do you know who deals with [problem]? Would they talk to me?
@@ -376,7 +376,7 @@ When people get **emotional**, that's a big signal.
 
 ### Types of Bad Data (and How to Redirect)
 
-#### **1) Compliments**
+**1) Compliments**
 
 **What they say:** "That's a great idea! I love it."
 
@@ -388,7 +388,7 @@ When people get **emotional**, that's a big signal.
 "Thanks! So to make sure I understand, tell me about the last time you dealt with [problem]. What was that like?"
 ```
 
-#### **2) Hypothetical Fluff**
+**2) Hypothetical Fluff**
 
 **What they say:** "I would definitely use that!" or "I'd pay for that!"
 
@@ -400,8 +400,11 @@ When people get **emotional**, that's a big signal.
 "Interesting. Have you looked for solutions to this before? What did you find?"
 ```
 
-NOTE: When you're closer to having a solution, you could ask "how much" and keep a note of it for very loose pricing data. But, don't put a ton of weight into it until you ask them to pay for the solution - that's where you'll find out the truth.
-#### **3) Feature Requests (Wishlists)**
+> [!note] Note
+> 
+> When you're closer to having a solution, you could ask "how much" and keep a note of it for very loose pricing data. But, don't put a ton of weight into it until you ask them to pay for the solution - that's where you'll find out the truth.
+
+**3) Feature Requests (Wishlists)**
 
 **What they say:** "You should add `[feature X]`!" or "It needs to do `[Y]` and `[Z]`!"
 
@@ -419,7 +422,7 @@ NOTE: When you're closer to having a solution, you could ask "how much" and keep
 
 ### What Good vs Bad Interviews Look Like
 
-#### **BAD INTERVIEW:**
+**BAD INTERVIEW:**
 
 **You:** "I'm building an app for digital nomads to plan their trips. Do you think that's a good idea?"
 
@@ -435,7 +438,7 @@ NOTE: When you're closer to having a solution, you could ask "how much" and keep
 
 **→ Result:** You leave feeling great. You build it. They don't use it. You're confused.
 
-#### **GOOD INTERVIEW:**
+**GOOD INTERVIEW:**
 
 **You:** "Tell me about the last trip you took while working. Walk me through planning that."
 
@@ -546,7 +549,7 @@ Don't make decisions based on one interview. Look for patterns across 5-10.
 
 ### The "Signals to Persist vs Pivot" Framework
 
-#### **STRONG SIGNALS TO PERSIST:**
+**STRONG SIGNALS TO PERSIST:**
 
 ✅ **Problem exists and is urgent**
 - 8/10 people described the same pain
@@ -563,7 +566,7 @@ Don't make decisions based on one interview. Look for patterns across 5-10.
 - They introduced you to others like them
 - Repeatable channel is emerging
 
-#### **WARNING SIGNALS TO PIVOT:**
+**WARNING SIGNALS TO PIVOT:**
 
 ⚠️ **Problem exists but isn't urgent**
 - They acknowledge problem but haven't tried to solve it
@@ -580,7 +583,7 @@ Don't make decisions based on one interview. Look for patterns across 5-10.
 - No pattern emerging after 10 conversations
 - Everyone's problem looks different
 
-#### **STRONG SIGNALS TO PIVOT:**
+**STRONG SIGNALS TO PIVOT:**
 
 ❌ **No problem urgency**
 - "I've never really thought about this (problem)"
@@ -614,7 +617,7 @@ Not all feedback is created equal. Here's how to translate what you hear into wh
 
 ---
 
-## PART 4: Special Scenarios
+## Special Scenarios
 
 ### B2B Interviews
 
@@ -698,9 +701,9 @@ You can't just show up and ask for something.
 
 ---
 
-## PART 5: Common Mistakes & How to Fix Them
+## Common Mistakes & How to Fix Them
 
-### 1) Asking Permission to Build
+**1) Asking Permission to Build**
 
 ❌ **What you're saying:**  
 "Would you use an app that does X?"
@@ -713,9 +716,7 @@ People are overly optimistic about the future. They'll say yes to be nice.
 
 **Now you're getting:** Past behavior (truth) not future wishes (lies).
 
----
-
-### 2) Pitching Instead of Learning
+**2) Pitching Instead of Learning**
 
 ❌ **What you're doing:**  
 Spending 60% of the conversation explaining your product
@@ -726,9 +727,7 @@ The more you talk, the more you bias them. They start imagining your solution in
 ✅ **Fix:**  
 Spend 80% listening, 20% asking questions. Only describe your product at the end if they ask/beg.
 
----
-
-### 3) Seeking Validation Instead of Truth
+**3) Seeking Validation Instead of Truth**
 
 ❌ **What you want to hear:**  
 "That's a great idea! I'd definitely use that!"
@@ -741,9 +740,7 @@ Go in hoping to hear "No, I wouldn't use that because..."
 
 Bad news is good news. It saves you months of building the wrong thing. And remember, the scientific method only invalidates - that's it's purpose. It's not to validate (despite the words we use in startups).
 
----
-
-### 4) Interviewing the Wrong People
+**4) Interviewing the Wrong People**
 
 ❌ **Who you're talking to:**  
 - Friends and family (they'll lie to protect you)
@@ -759,9 +756,7 @@ Only interview people who:
 2. Have tried to solve it in last 6 months
 3. Fit your ICP profile
 
----
-
-### 5) Taking Feature Requests as Gospel
+**5) Taking Feature Requests as Gospel**
 
 ❌ **What you hear:**  
 "You should add `[feature X]`!" → You go build it
@@ -774,9 +769,7 @@ Ask: "Why is that important to you? When's the last time you needed that?"
 
 If they can't give you a recent, specific example, note it but don't build it.
 
----
-
-### 6) Stopping After 2-3 Interviews
+**6) Stopping After 2-3 Interviews**
 
 ❌ **What you do:**  
 Talk to 2 people, both say it's a great idea, you go build.
@@ -791,9 +784,7 @@ Pattern shows up in 8+ of 10 conversations → That's **strong** signal.
 Pattern shows up in 5-7 of 10 conversations → That's signal.  
 Pattern shows up in 2-3 of 10 → That's noise.
 
----
-
-### 7) Not Getting Commitments
+**7) Not Getting Commitments**
 
 ❌ **How interviews end:**  
 "Thanks for your time! This was really helpful."
