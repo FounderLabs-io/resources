@@ -48,7 +48,7 @@ These aren't meant to be read cover-to-cover. Grab what you need when you need i
 ### Customer Interviews
 
 - Customer Discovery Tactics - How to learn what people actually want (not what they say they want)
-- Customer Interview Cheatsheet
+- [[The Mom Test]] - How to do customer interviews, with templates
 - How and What to Track from Customer Interviews
 
 ## Decision Making
