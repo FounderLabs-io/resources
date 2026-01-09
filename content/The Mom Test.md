@@ -2,7 +2,7 @@
 title: The Mom Test
 publish: true
 ---
-## The Mom Test in Practice: Customer Interviews That Actually Validate
+## The Mom Test in Practice
 
 *A tactical framework for early-stage founders who need to validate (or invalidate) their bets before burning their runway*
 
