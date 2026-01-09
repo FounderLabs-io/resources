@@ -52,7 +52,7 @@ Those companies / projects where the current focus is scaling what's working, or
 > Avoid these common mistakes when using this framework:
 > - Treating customer conversations as sales pitches instead of learning sessions
 > - Only interviewing people who fit your demographic assumptions (test them first)
-> - Believing compliments equal validation (read The Mom Test)
+> - Believing compliments equal validation (read [[The Mom Test]])
 > - Stopping customer discovery after building the product (it never ends)
 
 ---
@@ -269,9 +269,9 @@ Once you've tested if customers have the problems you think they have and if you
 > There is more to Customer Discovery as Steve Blank and Eric Ries have defined it than what is in this document. The process documented here is just what matters most to early-stage, pre-PMF founders according to [Nate Ritter](https://nateritter.com).
 
 ---
-
 ## References
 
-- [https://steveblank.com](https://steveblank.com) (Steve Blank's blog with the Customer Development Manifesto)
-- [https://www.marsdd.com/article/the-customer-development-model-cdm-product-development-and-technology-startups/](https://www.marsdd.com/article/the-customer-development-model-cdm-product-development-and-technology-startups/)
-- [https://userpilot.com/blog/customer-development-process/](https://userpilot.com/blog/customer-development-process/)
+- [Steve Blank's blog](https://steveblank.com)
+- [Steve Blank's Customer Development Manifesto](https://growthorientedsustainableentrepreneurship.wordpress.com/wp-content/uploads/2016/07/en-customer-development-manifesto.pdf) (PDF)
+- [The Customer Development Model (CDM), product development and technology startups, by MaRS Startup Toolkit](https://learn.marsdd.com/article/the-customer-development-model-cdm-product-development-and-technology-startups/)
+- [Customer Development Process 101 – The Product Manager Guide, by UserPilot](https://userpilot.com/blog/customer-development-process/)
