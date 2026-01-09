@@ -72,7 +72,7 @@ Now, here's how this works:
 
 ## PART 1: Before the Interview
 
-### Who to Interview (And Who to Avoid)
+### Who to Interview
 
 **GOOD CANDIDATES:**
 
@@ -158,9 +158,9 @@ Best,
 - No mention of your product/solution
 - Follow up a few times.
 
-### Your Top 3 Questions (Company Killer Assumptions)
+### Your Top 3 Questions
 
-Reference: "Company killer assumptions" comes from [[Customer Development]].
+Your top 3 questions should be your "company killer assumptions".  This phrase comes from [[Customer Development]], if you're not familiar with it.
 
 TL;DR: Before every interview, identify the 3 assumptions that, if wrong, kill your business. These are the most important questions to get answers to. Getting info on just one of them is worth gold.
 
@@ -184,7 +184,7 @@ TL;DR: Before every interview, identify the 3 assumptions that, if wrong, kill y
 
 ## PART 2: During the Interview
 
-### Opening (First 5 Minutes)
+### Opening
 
 Set context and build rapport.
 
@@ -209,7 +209,7 @@ Great. Before we dive in, quick background - what do you do and how does [proble
 - Gives them permission to be honest
 - Gets them talking about themselves first
 
-### 10 Question Templates
+### Question Templates
 
 Use these as your foundation. Adapt to your specific problem space.
 
@@ -337,7 +337,7 @@ Who else do you know who deals with [problem]? Would they talk to me?
 
 **Why:** Gets warm referrals. One "yes" from each person can lead to many more conversations (much easier than doing cold outreach too).
 
-### Emotional Conversion Language: Listen For This
+### Emotional Conversion Words
 
 When people get **emotional**, that's a big signal.
 
@@ -374,7 +374,7 @@ When people get **emotional**, that's a big signal.
 > 
 > When you use these words in your copy, your prospects and customers will say things like **"It's like you were reading my mind."**  No kidding. Don't be surprised when it happens.
 
-### Types of Bad Data (and How to Redirect)
+### Types of Bad Data
 
 **1) Compliments**
 
@@ -420,7 +420,7 @@ When people get **emotional**, that's a big signal.
 > 
 > Features suggested in interviews should be **noted but not built**. You'll only build what shows up repeatedly AND maps to urgent, past behavior.
 
-### What Good vs Bad Interviews Look Like
+### Good vs Bad Interviews
 
 **BAD INTERVIEW:**
 
@@ -484,7 +484,7 @@ When people get **emotional**, that's a big signal.
 
 ## PART 3: After the Interview
 
-### Immediate Debrief (Within 5 Minutes)
+### Immediate Debrief
 
 This part is no joke. Don't wait. Memory fades fast. People fail here often.
 
@@ -516,9 +516,9 @@ CONTRADICTIONS / SURPRISES:
 - 
 ```
 
-### After 5-10 Interviews: Pattern Analysis
+### Pattern Analysis
 
-Don't make decisions based on one interview. Look for patterns across 5-10.
+Don't make decisions based on less than 5-10 interviews. I highly recommend 10+.
 
 **Questions to ask yourself:**
 
@@ -547,7 +547,7 @@ Don't make decisions based on one interview. Look for patterns across 5-10.
 - OR are you getting mixed signals because your segment is too broad?
 - Should you narrow or pivot your ICP?
 
-### The "Signals to Persist vs Pivot" Framework
+### Signals to Persist vs Pivot
 
 **STRONG SIGNALS TO PERSIST:**
 
@@ -600,7 +600,7 @@ Don't make decisions based on one interview. Look for patterns across 5-10.
 - OR don't have authority to buy
 - OR aren't in pain enough to act
 
-### Translation Framework: Feedback → Action
+### Feedback → Action
 
 Not all feedback is created equal. Here's how to translate what you hear into what you do.
 
@@ -646,7 +646,9 @@ Part of your job in this case is to figure out [what the power dynamic is](https
 - Move to buyers (validate willingness to pay)
 - End with gatekeepers (validate procurement process)
 
-### Technical Products (Plugins, Dev Tools, APIs)
+### Technical Products
+
+This is for plugins, dev tools, APIs, etc.
 
 **1. Watch them use their current solution**
 
