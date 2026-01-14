@@ -2,8 +2,6 @@
 title: Self-Selection
 publish: true
 ---
-# The Self-Selection Framework
-
 Your messaging should function as a filter: making the right people self-select IN and the wrong people self-select OUT before they waste your time or their money.
 
 Generic messaging converts no one. Specific messaging that deliberately excludes non-fits drives higher conversion rates and lower customer acquisition costs.
@@ -32,8 +30,6 @@ Observable, binary criteria. You either meet them or you don't.
 - "$3M+ annual revenue" (not "For growing SaaS companies")
 - "Bay Area only" (not "Currently serving select regions")
 
----
-
 ### 2) Psychographics
 
 Internal characteristics that create emotional resonance.
@@ -48,8 +44,6 @@ Internal characteristics that create emotional resonance.
 **Implementation:** Use one psychographic filter per message. Don't stack 5+ or it becomes noise.
 
 Pick the filter that has the strongest agree/disagree reaction. Lukewarm psychographics don't filter.
-
----
 
 ### 3) Self-Identity Language
 
@@ -192,8 +186,6 @@ Ask: "Is this for you?"
 - Non-ICP says "no" in < 3 seconds
 
 If either group hesitates, your filter isn't working as well as it should.
-
----
 
 ### Funnel Diagnostic
 
