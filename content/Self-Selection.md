@@ -2,7 +2,7 @@
 title: Self-Selection
 publish: true
 ---
-# **The Self-Selection Framework**
+# The Self-Selection Framework
 
 Your messaging should function as a filter: making the right people self-select IN and the wrong people self-select OUT before they waste your time or their money.
 
@@ -10,9 +10,9 @@ Generic messaging converts no one. Specific messaging that deliberately excludes
 
 ---
 
-## **The Three Filtering Mechanisms**
+## Three Filtering Mechanisms
 
-### **1. Demographics**
+### 1) Demographics
 
 Observable, binary criteria. You either meet them or you don't.
 
@@ -34,7 +34,7 @@ Observable, binary criteria. You either meet them or you don't.
 
 ---
 
-### **2. Psychographics**
+### 2) Psychographics
 
 Internal characteristics that create emotional resonance.
 
@@ -51,7 +51,7 @@ Pick the filter that has the strongest agree/disagree reaction. Lukewarm psychog
 
 ---
 
-### **3. Self-Identity Language**
+### 3) Self-Identity Language
 
 The exact words your ICP uses to describe themselves.
 
@@ -65,12 +65,6 @@ The exact words your ICP uses to describe themselves.
     - What they complain about
     - What terms they explicitly reject
 
-**Red flags:**
-
-- You're using a term you invented
-- You're using industry jargon they don't use
-- You're calling them something they don't call themselves
-
 **Examples of discovered language:**
 
 - "Solopreneur" (self-selected)
@@ -80,9 +74,9 @@ The exact words your ICP uses to describe themselves.
 
 ---
 
-## **Building Your Filter Statement**
+## Building Your Filter Statement
 
-### **Step 1: List All Disqualifiers**
+### 1) List All Disqualifiers
 
 Write every reason someone wouldn't be a fit.
 
@@ -96,9 +90,7 @@ Write every reason someone wouldn't be a fit.
 
 Document these. These become your demographic filters.
 
----
-
-### **Step 2: Extract Their Language**
+### 2) Extract Their Language
 
 Go to 3-5 places your ICP hangs out.
 
@@ -111,13 +103,11 @@ Go to 3-5 places your ICP hangs out.
 
 **Output:** A list of 10-20 phrases/terms they actually use.
 
----
-
-### **Step 3: Identify the Emotional Trigger**
+### 3) Identify the Emotional Trigger
 
 What internal state makes someone your ICP right now?
 
-**Format:** [Emotion] + [Situation]
+**Format:** {Emotion} + {Situation}
 
 **Examples:**
 
@@ -128,13 +118,11 @@ What internal state makes someone your ICP right now?
 
 Pick one. Use it early (headline or first sentence).
 
----
+### 4) Construct the Filter
 
-### **Step 4: Construct the Filter**
+**Format:** {Demographic} + {Psychographic} + {Self-Identity}
 
-**Format:** [Demographic] + [Psychographic] + [Self-Identity]
-
-**Template:** "[Who you serve - demographics] who [situation/pain - psychographics] and [how they describe themselves - identity]"
+**Template:** "{Who you serve - demographics} who {situation/pain - psychographics} and {how they describe themselves - identity}"
 
 **Application Examples:**
 
@@ -156,9 +144,9 @@ Pick one. Use it early (headline or first sentence).
 
 ---
 
-## **Where to Apply This**
+## Where to Apply This
 
-### **Paid Ads**
+### Paid Ads
 
 Put demographic filters in:
 
@@ -166,7 +154,7 @@ Put demographic filters in:
 - Ad headline (first 5 words)
 - Ad description (first sentence)
 
-### **Landing Pages**
+### Landing Pages
 
 Put all three filters in:
 
@@ -174,7 +162,7 @@ Put all three filters in:
 - Subheadline (self-identity + emotional trigger)
 - First paragraph (reinforce all three)
 
-### **Outreach Emails**
+### Outreach Emails
 
 Put filters in:
 
@@ -182,33 +170,34 @@ Put filters in:
 - First sentence (all three combined)
 - Explicit disclaimer if needed ("This is only relevant if you're a Mac user")
 
-### **Sales Calls**
+### Sales / Interview Calls
 
-State filters verbally in first 60 seconds: "Before we go further—you're [demographic], dealing with [psychographic], and [identity], right?"
+Ref: [[Customer Development]]
+
+State filters verbally in first 60 seconds: "Before we go further—you're {demographic}, dealing with {psychographic}, and {identity}, right?"
 
 ---
 
-## **Testing Your Filter**
+## Testing Your Filter
 
-### **The 3-Second Test**
+### The 3-Second Test
 
-Show your filter statement to 10 people:
-
-- 5 inside your ICP
-- 5 outside your ICP
+Show your filter statement to 10 people:  5 inside your ICP and 5 outside your ICP.
 
 Ask: "Is this for you?"
 
 **Pass criteria:**
 
-- ICP says "yes" in <3 seconds
-- Non-ICP says "no" in <3 seconds
+- ICP says "yes" in < 3 seconds
+- Non-ICP says "no" in < 3 seconds
 
-If either group hesitates, your filter isn't working.
+If either group hesitates, your filter isn't working as well as it should.
 
 ---
 
-### **Funnel Diagnostic**
+### Funnel Diagnostic
+
+Ref: [[Your First Funnel]]
 
 Run your message through a small test (ad, landing page, outreach batch).
 
@@ -223,48 +212,47 @@ Run your message through a small test (ad, landing page, outreach batch).
 - Lower CTR than generic message (you're filtering)
 - Higher conversion rate than generic message (right people clicking)
 
+If you're getting lower CTR and higher conversion than the generic message, you'll pay less per click with ads and increase your conversion rate at the same time. You'll get more of the right people to your landing pages. 
+
 **What failure looks like:**
 
 - High CTR, low conversion = attracting wrong people
-- Low CTR, low conversion = message isn't resonating at all
+- Low CTR, low conversion = message isn't resonating at all, so try a different combo of demographic + psychographic + identity.
+
+If either of these scenarios is true, you'll know either (1) your message is not resonating (try a different combo of demographic, psychographic, and identity), and/or (2) you're segmentation is wrong and/or (3) that distribution channel doesn't work for your product.
+
+Your job here is to figure out which one of those is true. So, you can change the message and test more, double check the segmentation settings in your ads, or if neither of those is relevant, go back to do more research to fix your filter, or move on to a different channel and try the filter/message somewhere else.
 
 ---
 
-## **Common Failures**
+## Common Failures
 
-### **Failure 1: Hedging**
+### Hedging
 
 **What it looks like:** "For both beginners and advanced users" "Suitable for small businesses and enterprises"
 
 **Fix:** Pick one segment. Write a different message for the other segment.
-
----
-
-### **Failure 2: Invented Language**
+### Invented Language
 
 **What it looks like:** Using terms you made up that your ICP doesn't use.
 
 **Fix:** Use their actual language, even if it sounds less polished.
 
----
-
-### **Failure 3: Implied Filters**
+### Implied Filters
 
 **What it looks like:** Assuming people will infer "Mac only" from screenshots showing Mac UI.
 
 **Fix:** State every filter explicitly. People skim.
 
----
-
-### **Failure 4: Too Many Filters**
+### Too Many Filters
 
 **What it looks like:** "For Mac-using, remote-working, bootstrapped, B2B SaaS, solo founders with $1-5k MRR building dev tools who value privacy"
 
-**Fix:** Pick 3 maximum: 1 demographic, 1 psychographic, 1 identity.
+**Fix:** Pick 3 maximum: 1 demographic, 1 psychographic, 1 identity. 
 
 ---
 
-## **Category Creation (Optional)**
+## Category Creation (Optional)
 
 If your ICP doesn't have a name, you can create one.
 
@@ -276,24 +264,28 @@ If your ICP doesn't have a name, you can create one.
 
 **How to create a category:**
 
-1. Name it (usually: [market type] + [problem nature] + [audience])
+1. Name it (usually: {market type} + {problem nature} + {audience}, or simplify it into one)
 2. Define it (clear boundaries: what it is and isn't)
 3. Claim it (use it everywhere consistently)
 4. Defend it (educate market on why this category matters)
 
 **Examples:**
 
-- "Inbound marketing" (HubSpot)
 - "Conversational marketing" (Drift)
-- "Solopreneur" (Justin Welsh)
+- "Solopreneur" (Terri Lonier coined it but Justin Welsh owns it)
+- "Growth Hacker" (Sean Ellis)
+- "4-Hour Workweek" (Tim Ferriss)
+- "Permission Marketing" (Seth Godin)
 
-**Warning:** Category creation is slow and expensive. Only do this if you're committed to multi-year investment.
+> [!warning] Warning
+> 
+> Category creation is slow and expensive. Only do this if you're committed to multi-year investment.
 
-**Alternative:** If your ICP uses multiple terms, list them all: "For expat consultants, remote executives, and global professionals."
+**Alternative:** If your ICP uses multiple terms and you have the space to do so, list them all in your copy until one solidifies: "For expat consultants, remote executives, and global professionals."
 
 ---
 
-## **Implementation Checklist**
+## Implementation Checklist
 
 - [ ] List all demographic disqualifiers
 - [ ] Spend 2-3 hours in ICP watering holes documenting language
@@ -303,7 +295,7 @@ If your ICP doesn't have a name, you can create one.
 - [ ] Revise based on 3-second test results
 - [ ] Apply to ads, landing page, outreach templates
 - [ ] Run small test and measure CTR vs conversion rate
-- [ ] Iterate based on funnel diagnostic
+- [ ] Iterate based on [[Your First Funnel|funnel diagnostic]]
 
 ---
 
