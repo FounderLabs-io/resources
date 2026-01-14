@@ -17,7 +17,7 @@ Observable, binary criteria. You either meet them or you don't.
 **Include:**
 
 - Platform requirements (Mac/Windows, iOS/Android)
-- Budget thresholds ($100 per mo minimum, $50k+ revenue)
+- Budget thresholds ( $100/mo+, $50k+ revenue )
 - Geographic constraints (US-only, Bay Area only)
 - Technical requirements (must use Salesforce, must have API access)
 - Team size (solo founders only, 10+ person teams)
