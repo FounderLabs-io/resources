@@ -26,7 +26,7 @@ The fix isn't optimizing conversion rates (yet). The fix is building just a basi
 
 Here's how I like to start doing this...
 
-## Step 1) Create a Simple Funnel
+## 1) Create a Simple Funnel
 
 Before you worry about AARRR metrics ("pirate metrics") or refreshing your analytics again, start here:
 
@@ -153,7 +153,7 @@ Question to answer: Would they recommend you unprompted?
 > 
 > Don't optimize all five at once. Fix the leakiest bucket first.
 
-## Step 2) Find Your Leakiest Stage
+## 2) Find Your Leakiest Stage
 
 Look at each transition in your funnel. Where's the biggest drop-off (compared to expected/best drop-off)?
 
@@ -195,7 +195,7 @@ Now, each week, you can fill in the raw numbers and the conversion rates and agg
 > Thus, to make decisions quickly, 30-100 conversions at any stage, for any one test, where the actions taken afterward are reversible, will be our starting point for making decisions. 
 
 
-## Step 3) Diagnose the Leaks
+## 3) Diagnose the Leaks
 
 When something's not working, here's where to look:
 

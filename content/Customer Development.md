@@ -59,7 +59,7 @@ Those companies / projects where the current focus is scaling what's working, or
 
 ## Tactical "How To"
 
-### Step 1) State Your Hypotheses
+### 1) State Your Hypotheses
 
 **Objective:** Document all your assumptions so you can test them systematically. 
 
@@ -69,7 +69,7 @@ Those companies / projects where the current focus is scaling what's working, or
 
 These should be as specific as you can make them.  The templates will help guide you to write them as sentences.  But, immediately after writing these, you can break the statements into a bunch of assumptions, categorize them as risks or opportunities, and prioritize them.  Each higher level hypothesis you write will likely have many assumptions (and probably sub-assumptions) inside them.  
 
-#### Step 1.1) Write Your PROBLEM Hypothesis
+#### 1.1) Write Your PROBLEM Hypothesis
 
 **Template:**
 
@@ -100,7 +100,7 @@ and they currently solve it by [current alternative].
 
 **Bold words** are what you're really testing.
 
-#### Step 1.2) Write your CUSTOMER Hypothesis
+#### 1.2) Write your CUSTOMER Hypothesis
 
 **Template:**
 
@@ -130,7 +130,7 @@ We can reach them through [specific channels].
 
 **Bold words** are what you're really testing.
 
-#### Step 1.3) Write Your PRODUCT Hypothesis
+#### 1.3) Write Your PRODUCT Hypothesis
 
 **Template:**
 
@@ -154,9 +154,9 @@ Success looks like [measurable outcome].
 - We believe pre-PMF founder decision making speed is increased by talking to customers.
 - We believe pre-PMF founders will pay at least $100/mo for faster decision making speed.
 
-### Step 2) Create Spreadsheets
+### 2) Create Spreadsheets
 
-#### Step 2.1) Create the Assumptions Spreadsheet: (with example data)
+#### 2.1) Create the Assumptions Spreadsheet: (with example data)
 
 Create a table with the headings as shown below.  For the "Risk" category, you can create selectable options as shown below, or a rating from 1-4 or so.  The goal with the "Risk" column is to help you prioritize. The more you practice the skill of seeing where you're making assumptions without data to back you up, the more assumptions you'll add. This list will get long.  Prioritization is key to making progress on the most important things.  Focus only on validating the "Company killer" level assumptions first. 
 
@@ -177,7 +177,7 @@ We all make assumptions about our businesses. Prioritize getting data on the one
 | ICP has enough money to spend on a community ($20-100/mo)                                                                                      | Maybe risky      |            |                                       |
 | ICP are open to advice from experts                                                                                                            | Not really risky |            |                                       |
 
-#### Step 2.2) Create the Opportunities Spreadsheet: (with example data)
+#### 2.2) Create the Opportunities Spreadsheet: (with example data)
 
 Create a table with the headings as shown below. For the **"Opportunity Size"** column, you can create selectable options as shown below, or a rating from 1-3 or so. The goal with the "Opportunity Size" column is to help you prioritize. The more you practice the skill of seeing where your biggest opportunities are, and the difficulty to test them, the more you'll want to document and prioritize them.  
 
@@ -246,7 +246,7 @@ The more specific the variable ("2+ degrees") and the change ("50%+ more algae")
 - [http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html](http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html) (Eric Ries on hypothesis testing)
 - [R/ICE Prioritization Framework](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
 
-### Step 3) Test Your Hypotheses
+### 3) Test Your Hypotheses
 
 This part is somewhat vague because what you are testing and how will be dependent upon your stage.  
 

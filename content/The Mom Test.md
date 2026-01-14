@@ -70,7 +70,7 @@ Now, here's how this works:
 
 ---
 
-## PART 1: Before the Interview
+## 1) Before the Interview
 
 ### Who to Interview
 
@@ -182,7 +182,7 @@ TL;DR: Before every interview, identify the 3 assumptions that, if wrong, kill y
 
 ---
 
-## PART 2: During the Interview
+## 2) During the Interview
 
 ### Opening
 
@@ -482,7 +482,7 @@ When people get **emotional**, that's a big signal.
 
 ---
 
-## PART 3: After the Interview
+## 3) After the Interview
 
 ### Immediate Debrief
 
