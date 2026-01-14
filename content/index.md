@@ -44,6 +44,7 @@ These aren't meant to be read cover-to-cover. Grab what you need when you need i
 - Demo, Build, Sell - Sell the promise with a demo first, build only what buyers commit to, and let revenue—not opinions—decide the roadmap.
 - Financial Reality Calculator - Know your real numbers before you commit another 6 months
 - Market Evaluation Framework - Score your market opportunity objectively
+- [[Self-Selection]] Framework - Get the right people to your pages.
 
 ### Customer Interviews
 
@@ -55,6 +56,7 @@ These aren't meant to be read cover-to-cover. Grab what you need when you need i
 
 - Persist or Pivot Framework - The structured process for making the call
 - Weekly Commitment Template - Pick ONE thing. Do it. Repeat.
+- R/ICE Framework - Decision making for the builder
 
 ## Growth & Revenue
 
