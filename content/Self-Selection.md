@@ -24,11 +24,11 @@ Observable, binary criteria. You either meet them or you don't.
 
 **Implementation:** State these explicitly in headlines, first sentences, or ad targeting parameters.
 
-**Example:**
-
-- "Mac only" (not "Works best on Mac")
-- "$3M+ annual revenue" (not "For growing SaaS companies")
-- "Bay Area only" (not "Currently serving select regions")
+> [!example] Examples:
+> 
+> - "Mac only" (not "Works best on Mac")
+> - "$3M+ annual revenue" (not "For growing SaaS companies")
+> - "Bay Area only" (not "Currently serving select regions")
 
 ### 2) Psychographics
 
@@ -59,12 +59,11 @@ The exact words your ICP uses to describe themselves.
     - What they complain about
     - What terms they explicitly reject
 
-**Examples of discovered language:**
-
-- "Solopreneur" (self-selected)
-- "Indie hacker" (community term)
-- "Bootstrapped founder" vs "VC-backed founder"
-- Job titles: "Expat CFO" not "digital nomad"
+> [!example] Examples of discovered language:
+> - "Solopreneur" (self-selected)
+> - "Indie hacker" (community term)
+> - "Bootstrapped founder" vs "VC-backed founder"
+> - Job titles: "Expat CFO" not "digital nomad"
 
 ---
 
@@ -103,12 +102,11 @@ What internal state makes someone your ICP right now?
 
 **Format:** {Emotion} + {Situation}
 
-**Examples:**
-
-- Frustration + "launched to crickets"
-- Fear + "3 months runway left"
-- Confusion + "don't know why conversions dropped"
-- Guilt + "building instead of selling"
+> [!example] Examples:
+> - Frustration + "launched to crickets"
+> - Fear + "3 months runway left"
+> - Confusion + "don't know why conversions dropped"
+> - Guilt + "building instead of selling"
 
 Pick one. Use it early (headline or first sentence).
 
@@ -261,13 +259,13 @@ If your ICP doesn't have a name, you can create one.
 3. Claim it (use it everywhere consistently)
 4. Defend it (educate market on why this category matters)
 
-**Examples:**
-
-- "Conversational marketing" (Drift)
-- "Solopreneur" (Terri Lonier coined it but Justin Welsh owns it)
-- "Growth Hacker" (Sean Ellis)
-- "4-Hour Workweek" (Tim Ferriss)
-- "Permission Marketing" (Seth Godin)
+> [!example] Examples:
+> 
+>  - "Conversational marketing" (Drift)
+>  - "Solopreneur" (Terri Lonier coined it but Justin Welsh owns it)
+>  - "Growth Hacker" (Sean Ellis)
+>  - "4-Hour Workweek" (Tim Ferriss)
+>  - "Permission Marketing" (Seth Godin)
 
 > [!warning] Warning
 > 
