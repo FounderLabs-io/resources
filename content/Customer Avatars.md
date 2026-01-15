@@ -2,9 +2,9 @@
 title: Customer Avatars
 publish: true
 ---
-**When to use this:** Before you build anything, when you're pre-PMF, or when you keep launching to crickets.
+**When to use this:** Before you build anything, when you're pre-PMF, or when you keep launching to crickets. OR, when your marketing is falling flat even after you have 10+ paying customers and have interviewed them.
 
-**When NOT to use this:** When you already have 10+ paying customers telling you exactly what they need. At that point, go talk to them instead.
+Honestly, if you haven't interviewed them, doing this practice is just hypothetical. Not necessarily a waste of time, but also, you're just delaying the [[Customer Development]] you should be doing.
 
 ---
 

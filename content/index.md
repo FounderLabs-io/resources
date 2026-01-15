@@ -45,6 +45,7 @@ These aren't meant to be read cover-to-cover. Grab what you need when you need i
 - Financial Reality Calculator - Know your real numbers before you commit another 6 months
 - Market Evaluation Framework - Score your market opportunity objectively
 - [[Self-Selection]] Framework - Get the right people to your pages.
+- Customer Avatars - 
 
 ### Customer Interviews
 
