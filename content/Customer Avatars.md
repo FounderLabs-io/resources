@@ -1,6 +1,6 @@
 ---
 title: Customer Avatars
-publish: false
+publish: true
 ---
 **When to use this:** Before you build anything, when you're pre-PMF, or when you keep launching to crickets. OR, when your marketing is falling flat even after you have 10+ paying customers and have interviewed them.
 
