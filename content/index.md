@@ -45,7 +45,7 @@ These aren't meant to be read cover-to-cover. Grab what you need when you need i
 - Financial Reality Calculator - Know your real numbers before you commit another 6 months
 - Market Evaluation Framework - Score your market opportunity objectively
 - [[Self-Selection]] Framework - Get the right people to your pages.
-- Customer Avatars - 
+- [[Customer Avatars]] - Target the right person with the right message every time.
 
 ### Customer Interviews
 
@@ -64,6 +64,7 @@ These aren't meant to be read cover-to-cover. Grab what you need when you need i
 - [[Your First Funnel]] - How to build one, and what comes next
 - Funnel Diagnostic Worksheet - Find where you're leaking customers
 - Pricing Strategy Guide - Stop undercharging
+- [[Customer Avatars]] - Target the right person with the right message every time.
 
 ## Mental Models
 
