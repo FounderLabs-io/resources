@@ -69,6 +69,38 @@ Those companies / projects where the current focus is scaling what's working, or
 
 These should be as specific as you can make them.  The templates will help guide you to write them as sentences.  But, immediately after writing these, you can break the statements into a bunch of assumptions, categorize them as risks or opportunities, and prioritize them.  Each higher level hypothesis you write will likely have many assumptions (and probably sub-assumptions) inside them.  
 
+### Before Starting: Set Up a Learning System
+
+Customer Development produces a LOT of qualitative data. Without a system to review it, you'll drown in notes and make no decisions.
+
+**Weekly Learning Review (30 minutes, every Friday):**
+
+1. **Consolidate your notes** from this week's customer conversations
+2. **Identify patterns** (what did 3+ people mention?)
+3. **Update your hypotheses** (what got validated? What got invalidated?)
+4. **Pick ONE hypothesis to test next week**
+
+**Tools that work:**
+
+- Notion database with interview notes + tags
+- Spreadsheet with one row per interview + columns for key insights
+- Airtable if you want something in between
+
+**The tool doesn't matter.** The weekly review matters.
+
+> [!example] Example
+>
+> **Week 1:** Interviewed 5 people. 4 mentioned problem with X, 1 mentioned problem with Y.
+> **Decision:** Focus next week's interviews on validating X further.
+> 
+> **Week 2:** Interviewed 5 more people about X. 3 said they're currently paying for solution A. 2 said they've tried building their own.
+> **Decision:** Talk to people using solution A to understand what's missing.
+> 
+> **Week 3:** Interviewed 4 users of solution A. All said it's "too complex" for their needs.
+> **Decision:** Hypothesis validated. Build simpler version of A.
+
+The review process turns conversations into conviction.
+
 #### 1.1) Write Your PROBLEM Hypothesis
 
 **Template:**

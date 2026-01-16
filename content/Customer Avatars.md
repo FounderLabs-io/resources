@@ -361,7 +361,7 @@ Start with your customer type in the center, then branch out into categories:
 Example mind map structure for "Dev agency owners":
 
 ![[2206-01-14-Dev agency owners mind map 1.png]]
-*(Note, I used [MindNode Classic](https://setapp.com/apps/mindnode) for this.)*
+*(Note, I used [MindNode Classic](https://setapp.sjv.io/7aR71A) for this.)*
 
 This visualization helps you identify:
 

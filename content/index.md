@@ -21,6 +21,21 @@ It's not sequential. It's not a course.
 
 These aren't meant to be read cover-to-cover. Grab what you need when you need it. If you're in PMF, Bust, or Pivot accountability program, your cohort and/or facilitator should point you to the right resource at the right time during your weekly commitments.
 
+Also, there's a list of [[Suggested Tools]] I use for all my work. 
+
+### The Value Isn't in the Tool - It's in the Review Process
+
+Pre-PMF founders don't need more dashboards or automated tracking. You need a **structured review process** that forces you to look at what's working, what's not, and what to do next.
+
+These frameworks work best when you:
+- **Review weekly** (not whenever you remember)
+- **Track inputs in the right direction, not just outcomes** (conversations had, not just customers gained)
+- **Make one decision per week** based on what the data tells you, this helps you know what to work on
+
+The tools help you see. The weekly review helps you decide. The commitment helps you act.
+
+If you're in the [PMF accountability program](https://founderlabs.io/community), this is built into your weekly check-ins. If you're going solo, block 30 minutes every Friday to review your metrics and pick ONE thing to focus on next week.
+
 ---
 
 ## Founders, Corporate Structure, Taxes, and Equity

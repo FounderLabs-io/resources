@@ -240,6 +240,19 @@ Here's some other thoughts. This is not comprehensive. Just a starting point.
 
 Again, fix one leak at a time. 
 
+
+## 4) Weekly Review Habit
+
+The thing is, even after setting all that up... **tracking alone doesn't help you**. You need a review process.
+
+Every week (Friday afternoons work well), spend 30 minutes asking:
+
+1. **What changed?** (numbers up, down, or flat)
+2. **Why did it change?** (what did I do differently this week? Have a theory.)
+3. **What's the bottleneck?** (where are most people dropping off compared to expectations?)
+4. **What's ONE thing I'll test next week?** (not three things → ONE)
+
+The funnel shows you where to look. The weekly review helps you decide where to spend your time.
 ## TL;DR Action Steps
 
 **If you have no funnel:**

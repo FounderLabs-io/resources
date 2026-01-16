@@ -70,6 +70,33 @@ Now, here's how this works:
 
 ---
 
+## Track What You Learn
+
+Customer interviews aren't just about having conversations. They're about **extracting patterns** that help you make decisions.
+
+**What to track after EVERY interview:**
+
+1. **What problem did they describe?** (in their words, not yours)
+2. **How are they solving it now?** (current alternative)
+3. **What's it costing them?** (time, money, frustration)
+4. **Have they tried to solve it before?** (past attempts = seriousness of problem)
+5. **Would they pay for a solution?** (look for behavior, not promises)
+
+**The Weekly Review:**
+
+After 5-10 interviews, block 30 minutes to look for patterns:
+
+- What problems came up in 80%+ of interviews? (strong signal)
+- What solutions did NO ONE mention? (weak signal, deprioritize)
+- What did people say they'd pay? What did past behavior suggest they'd ACTUALLY pay?
+- Are you talking to the right people? (or do you need to adjust your ICP?)
+
+**The goal isn't to interview forever.** The goal is to interview until you see clear patterns, then make a decision: build, pivot, or keep learning.
+
+> [!warning] Warning
+>
+> **Don't skip the review process.** Interviews without synthesis = noise. You'll "feel" like you're making progress, but you won't know what to build next.
+
 ## 1) Before the Interview
 
 ### Who to Interview
