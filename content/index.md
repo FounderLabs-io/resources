@@ -23,6 +23,8 @@ These aren't meant to be read cover-to-cover. Grab what you need when you need i
 
 Also, there's a list of [[Suggested Tools]] I use for all my work. 
 
+There's also a running list of [[Curated Bookmarks]]: useful links shared by the Founder Labs community.
+
 ### The Value Isn't in the Tool - It's in the Review Process
 
 Pre-PMF founders don't need more dashboards or automated tracking. You need a **structured review process** that forces you to look at what's working, what's not, and what to do next.
