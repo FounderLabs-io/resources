@@ -8,6 +8,7 @@ Links curated from the [Founder Labs community](https://founderlabs.io/community
 ## AI & Agents
 
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) — Self-hosted, MIT-licensed open-source studio for generating AI images and videos, offering access to 600+ models across 14 studios. *Why it matters:* Gives early founders a free base for an AI media product, though it promotes a paid white-label resale option.
+- [rakazo: open-source role-based AI bots you own](https://rakazo.com/) — Open-source app for running role-based AI bots, such as sales outbound, inbox management, and expense matching, from iOS and Android devices. *Why it matters:* Lets founders hand routine work like inbox triage, outreach drafts, and receipts to bots, with drafts held for review.
 
 ## Engineering
 
