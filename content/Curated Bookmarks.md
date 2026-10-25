@@ -11,6 +11,10 @@ Links curated from the [Founder Labs community](https://founderlabs.io/community
 - [rakazo: open-source role-based AI bots you own](https://rakazo.com/) — Open-source app for running role-based AI bots, such as sales outbound, inbox management, and expense matching, from iOS and Android devices. *Why it matters:* Lets founders hand routine work like inbox triage, outreach drafts, and receipts to bots, with drafts held for review.
 - [Microduck by Pollen Robotics](https://pollen-robotics.com/microduck/) — A 25 cm open-source biped robot you train yourself with reinforcement learning, starting in a physics simulator. *Why it matters:* At $399 pre-order and open source, it lets hardware-focused founders prototype embodied AI without building a robot from scratch.
 
+## Tools & Productivity
+
+- [Lunch Flow: Bank and Investment Sync API](https://www.lunchflow.app/) — API and app that syncs bank, investment, and card transactions and balances daily into budgeting tools like Lunch Money, YNAB, and Google Sheets. *Why it matters:* Replaces manual bank exports for budgeting or investing, and offers a platform API to build bank-connected features.
+
 ## Engineering
 
 - [reverse-api-engineer: Turn websites into APIs](https://reverseapi.dev/) — Open-source CLI that drives a browser, records network traffic as HAR, and has an agent generate a typed API client from it. *Why it matters:* Lets founders turn undocumented site endpoints into local code instead of brittle scraping, running on their machine under MIT license.
