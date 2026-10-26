@@ -18,3 +18,4 @@ Links curated from the [Founder Labs community](https://founderlabs.io/community
 ## Engineering
 
 - [reverse-api-engineer: Turn websites into APIs](https://reverseapi.dev/) — Open-source CLI that drives a browser, records network traffic as HAR, and has an agent generate a typed API client from it. *Why it matters:* Lets founders turn undocumented site endpoints into local code instead of brittle scraping, running on their machine under MIT license.
+- [Tailscale lockdown prompt for Claude Code](https://gist.github.com/alexknowshtml/515c5e741dc4c157d2293f782d15ed41) — A step-by-step Claude Code prompt for auditing and locking down a Tailscale network, replacing default allow-all policy with tags and per-port grants. *Why it matters:* Relevant if your Tailscale devices can reach each other unrestricted; shows how to limit access per port safely.
