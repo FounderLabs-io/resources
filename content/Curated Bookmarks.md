@@ -14,6 +14,7 @@ Links curated from the [Founder Labs community](https://founderlabs.io/community
 ## Tools & Productivity
 
 - [Lunch Flow: Bank and Investment Sync API](https://www.lunchflow.app/) — API and app that syncs bank, investment, and card transactions and balances daily into budgeting tools like Lunch Money, YNAB, and Google Sheets. *Why it matters:* Replaces manual bank exports for budgeting or investing, and offers a platform API to build bank-connected features.
+- [AI Design Skills](https://github.com/elayadesign/ai-design-skills) — Open-source markdown design skills for AI coding tools, including a landing-page skill covering intake, structure, copy, and visual system. *Why it matters:* Lets a bootstrapped founder generate a landing page with conversion copy and a visual system inside Claude Code or Cursor.
 
 ## Engineering
 
