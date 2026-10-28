@@ -10,6 +10,7 @@ Links curated from the [Founder Labs community](https://founderlabs.io/community
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) — Self-hosted, MIT-licensed open-source studio for generating AI images and videos, offering access to 600+ models across 14 studios. *Why it matters:* Gives early founders a free base for an AI media product, though it promotes a paid white-label resale option.
 - [rakazo: open-source role-based AI bots you own](https://rakazo.com/) — Open-source app for running role-based AI bots, such as sales outbound, inbox management, and expense matching, from iOS and Android devices. *Why it matters:* Lets founders hand routine work like inbox triage, outreach drafts, and receipts to bots, with drafts held for review.
 - [Microduck by Pollen Robotics](https://pollen-robotics.com/microduck/) — A 25 cm open-source biped robot you train yourself with reinforcement learning, starting in a physics simulator. *Why it matters:* At $399 pre-order and open source, it lets hardware-focused founders prototype embodied AI without building a robot from scratch.
+- [REA: Reverse Engineer Anything](https://github.com/morluto/rea) — MCP server giving AI agents tools to inspect native binaries, Electron and JavaScript apps, .NET assemblies, and websites locally. *Why it matters:* Lets founders have an agent investigate a feature in an existing app, explain how it works, and rebuild it.
 
 ## Tools & Productivity
 
