@@ -16,6 +16,10 @@ Links curated from the [Founder Labs community](https://founderlabs.io/community
 - [leanrea: single-file skill replacing REA's MCP layer for reverse engineering](https://github.com/aicodeking/leanrea) — An 8 KB SKILL.md that tells agents which plain CLI tools to use for each reverse-engineering target, with ready recon commands and no MCP server. *Why it matters:* Self-reported benchmark: 38% less wall time and 35% lower cost than REA at similar accuracy, on one machine.
 - [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) — A Claude agent skill that builds interactive isometric SVG and WebGL figures of physical machines that embody technical concepts. *Why it matters:* Could generate explainer visuals for technical ideas, replacing static diagrams in docs, landing pages, or product explainers.
 
+## Product & Validation
+
+- [Upstar: fastest-rising GitHub projects across 69 topics](https://upstar.dev/) — Hourly-updated site ranking GitHub repositories by star growth, browsable across 69 topics and curated collections, with no account needed. *Why it matters:* Lets founders spot emerging open-source tools and competitors early, before they reach mainstream attention.
+
 ## Tools & Productivity
 
 - [Lunch Flow: Bank and Investment Sync API](https://www.lunchflow.app/) — API and app that syncs bank, investment, and card transactions and balances daily into budgeting tools like Lunch Money, YNAB, and Google Sheets. *Why it matters:* Replaces manual bank exports for budgeting or investing, and offers a platform API to build bank-connected features.
