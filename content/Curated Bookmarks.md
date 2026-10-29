@@ -11,6 +11,7 @@ Links curated from the [Founder Labs community](https://founderlabs.io/community
 - [rakazo: open-source role-based AI bots you own](https://rakazo.com/) — Open-source app for running role-based AI bots, such as sales outbound, inbox management, and expense matching, from iOS and Android devices. *Why it matters:* Lets founders hand routine work like inbox triage, outreach drafts, and receipts to bots, with drafts held for review.
 - [Microduck by Pollen Robotics](https://pollen-robotics.com/microduck/) — A 25 cm open-source biped robot you train yourself with reinforcement learning, starting in a physics simulator. *Why it matters:* At $399 pre-order and open source, it lets hardware-focused founders prototype embodied AI without building a robot from scratch.
 - [REA: Reverse Engineer Anything](https://github.com/morluto/rea) — MCP server giving AI agents tools to inspect native binaries, Electron and JavaScript apps, .NET assemblies, and websites locally. *Why it matters:* Lets founders have an agent investigate a feature in an existing app, explain how it works, and rebuild it.
+- [obra/superpowers](https://github.com/obra/superpowers) — A composable skills framework and software development methodology that guides coding agents through design, planning, TDD, and subagent-driven implementation. *Why it matters:* Gives coding agents a structured workflow to plan and build autonomously, which could speed up solo development of a product.
 
 ## Tools & Productivity
 
