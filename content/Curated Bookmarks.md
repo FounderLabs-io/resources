@@ -16,6 +16,7 @@ Links curated from the [Founder Labs community](https://founderlabs.io/community
 - [leanrea: single-file skill replacing REA's MCP layer for reverse engineering](https://github.com/aicodeking/leanrea) — An 8 KB SKILL.md that tells agents which plain CLI tools to use for each reverse-engineering target, with ready recon commands and no MCP server. *Why it matters:* Self-reported benchmark: 38% less wall time and 35% lower cost than REA at similar accuracy, on one machine.
 - [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) — A Claude agent skill that builds interactive isometric SVG and WebGL figures of physical machines that embody technical concepts. *Why it matters:* Could generate explainer visuals for technical ideas, replacing static diagrams in docs, landing pages, or product explainers.
 - [FreeLLMAPI: one /v1 endpoint pooling free LLM provider tiers](https://github.com/tashfeenahmed/freellmapi) — Self-hosted gateway that pools free-tier LLM providers behind one OpenAI-compatible /v1 endpoint, with routing, failover, and encrypted keys. *Why it matters:* Lets early-stage founders run experiments across many free model tiers without paying for API access.
+- [T3 Code](https://t3.codes/) — A desktop app that orchestrates Claude Code, Codex, Cursor and other coding agents using credentials you already have, with remote access from a browser. *Why it matters:* Lets founders run multiple coding agents on their existing subscriptions, without reselling tokens or paying extra quota fees.
 
 ## Product & Validation
 
