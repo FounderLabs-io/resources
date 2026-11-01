@@ -18,6 +18,7 @@ Links curated from the [Founder Labs community](https://founderlabs.io/community
 - [FreeLLMAPI: one /v1 endpoint pooling free LLM provider tiers](https://github.com/tashfeenahmed/freellmapi) — Self-hosted gateway that pools free-tier LLM providers behind one OpenAI-compatible /v1 endpoint, with routing, failover, and encrypted keys. *Why it matters:* Lets early-stage founders run experiments across many free model tiers without paying for API access.
 - [T3 Code](https://t3.codes/) — A desktop app that orchestrates Claude Code, Codex, Cursor and other coding agents using credentials you already have, with remote access from a browser. *Why it matters:* Lets founders run multiple coding agents on their existing subscriptions, without reselling tokens or paying extra quota fees.
 - [FlashML-org/FreeVideo](https://github.com/flashml-org/freevideo) — Open-source local inference engine that runs MiniMax H3 video generation on consumer GPUs with as little as 8 GB VRAM. *Why it matters:* Lets founders generate short AI videos on hardware they already own, avoiding recurring cloud generation costs.
+- [DeepSeek Harness article on X](https://x.com/deepseekharness/status/2116857257245987236?a=RVI9VwDhWhWquvQdGD8&s=52) — A linked article posted on X by an account focused on DeepSeek tooling. The page content could not be read. *Why it matters:* Could be useful for founders tracking open-model tooling, but the content is unverified.
 
 ## Product & Validation
 
