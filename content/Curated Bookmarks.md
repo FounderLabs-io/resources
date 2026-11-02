@@ -19,6 +19,7 @@ Links curated from the [Founder Labs community](https://founderlabs.io/community
 - [T3 Code](https://t3.codes/) — A desktop app that orchestrates Claude Code, Codex, Cursor and other coding agents using credentials you already have, with remote access from a browser. *Why it matters:* Lets founders run multiple coding agents on their existing subscriptions, without reselling tokens or paying extra quota fees.
 - [FlashML-org/FreeVideo](https://github.com/flashml-org/freevideo) — Open-source local inference engine that runs MiniMax H3 video generation on consumer GPUs with as little as 8 GB VRAM. *Why it matters:* Lets founders generate short AI videos on hardware they already own, avoiding recurring cloud generation costs.
 - [DeepSeek Harness article on X](https://x.com/deepseekharness/status/2116857257245987236?a=RVI9VwDhWhWquvQdGD8&s=52) — A linked article posted on X by an account focused on DeepSeek tooling. The page content could not be read. *Why it matters:* Could be useful for founders tracking open-model tooling, but the content is unverified.
+- [Harness²: Recursive Agent Harnessing for an Open World](https://github.com/google-research/harness2) — Plug-and-play framework that refines an AI agent's prompts, tools, and memory per task, keeping model weights fixed, across benchmarks. *Why it matters:* Could lift agent performance without retraining models, useful if you build on hosted LLMs and can't fine-tune.
 
 ## Product & Validation
 
