@@ -20,6 +20,7 @@ Links curated from the [Founder Labs community](https://founderlabs.io/community
 - [FlashML-org/FreeVideo](https://github.com/flashml-org/freevideo) — Open-source local inference engine that runs MiniMax H3 video generation on consumer GPUs with as little as 8 GB VRAM. *Why it matters:* Lets founders generate short AI videos on hardware they already own, avoiding recurring cloud generation costs.
 - [DeepSeek Harness article on X](https://x.com/deepseekharness/status/2116857257245987236?a=RVI9VwDhWhWquvQdGD8&s=52) — A linked article posted on X by an account focused on DeepSeek tooling. The page content could not be read. *Why it matters:* Could be useful for founders tracking open-model tooling, but the content is unverified.
 - [Harness²: Recursive Agent Harnessing for an Open World](https://github.com/google-research/harness2) — Plug-and-play framework that refines an AI agent's prompts, tools, and memory per task, keeping model weights fixed, across benchmarks. *Why it matters:* Could lift agent performance without retraining models, useful if you build on hosted LLMs and can't fine-tune.
+- [Warp /skill-doctor: Improve your agent skills](https://www.warp.dev/skill-doctor) — Runs against your Claude Code, Codex, or Warp conversation history to score past sessions and propose merge-ready skill improvements. *Why it matters:* Scores past agent sessions for efficiency and coverage; the team version, Warp Factories, is early access only.
 
 ## Product & Validation
 
