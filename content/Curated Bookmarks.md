@@ -23,6 +23,7 @@ Links curated from the [Founder Labs community](https://founderlabs.io/community
 - [Warp /skill-doctor: Improve your agent skills](https://www.warp.dev/skill-doctor) — Runs against your Claude Code, Codex, or Warp conversation history to score past sessions and propose merge-ready skill improvements. *Why it matters:* Scores past agent sessions for efficiency and coverage; the team version, Warp Factories, is early access only.
 - [oMLX: Local LLM Server for Apple Silicon Macs](https://omlx.ai/) — Native macOS menu bar server for running local LLMs on Apple Silicon, with an OpenAI- and Anthropic-compatible API and SSD-persisted KV cache. *Why it matters:* Lets founders point Claude Code or Cursor at local models on their Mac, with faster time-to-first-token on long coding contexts.
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) — Edge-native Mixture-of-Experts serving engine that runs large open-weight models on consumer GPUs, with Anthropic and OpenAI-compatible APIs. *Why it matters:* Could let founders run frontier coding-agent models locally on gaming PCs, cutting recurring API costs.
+- [vstorm-co/agenticos](https://github.com/vstorm-co/agenticos) — Self-hosted, Apache-2.0 platform for building, running and governing company AI agents with shared chat, RAG, skills, browser, MCP, budgets and approvals. *Why it matters:* A self-hosted option for teams weighing an alternative to ChatGPT Enterprise, with control over agent costs and access.
 
 ## Product & Validation
 
